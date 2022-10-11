@@ -1,0 +1,1 @@
+This course contains MySQL learning materials
